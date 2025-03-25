@@ -1,0 +1,13 @@
+C:\Users\up636306\Desktop\PythonSoftUni\LAST\Containers and Cloud\Exercise Cloud Computing\TaskBoardAzure\TaskBoard.Data\bin\Debug\net8.0\TaskBoard.Data.deps.json
+C:\Users\up636306\Desktop\PythonSoftUni\LAST\Containers and Cloud\Exercise Cloud Computing\TaskBoardAzure\TaskBoard.Data\bin\Debug\net8.0\TaskBoard.Data.dll
+C:\Users\up636306\Desktop\PythonSoftUni\LAST\Containers and Cloud\Exercise Cloud Computing\TaskBoardAzure\TaskBoard.Data\bin\Debug\net8.0\TaskBoard.Data.pdb
+C:\Users\up636306\Desktop\PythonSoftUni\LAST\Containers and Cloud\Exercise Cloud Computing\TaskBoardAzure\TaskBoard.Data\obj\Debug\net8.0\TaskBoard.Data.csproj.AssemblyReference.cache
+C:\Users\up636306\Desktop\PythonSoftUni\LAST\Containers and Cloud\Exercise Cloud Computing\TaskBoardAzure\TaskBoard.Data\obj\Debug\net8.0\TaskBoard.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\up636306\Desktop\PythonSoftUni\LAST\Containers and Cloud\Exercise Cloud Computing\TaskBoardAzure\TaskBoard.Data\obj\Debug\net8.0\TaskBoard.Data.AssemblyInfoInputs.cache
+C:\Users\up636306\Desktop\PythonSoftUni\LAST\Containers and Cloud\Exercise Cloud Computing\TaskBoardAzure\TaskBoard.Data\obj\Debug\net8.0\TaskBoard.Data.AssemblyInfo.cs
+C:\Users\up636306\Desktop\PythonSoftUni\LAST\Containers and Cloud\Exercise Cloud Computing\TaskBoardAzure\TaskBoard.Data\obj\Debug\net8.0\TaskBoard.Data.csproj.CoreCompileInputs.cache
+C:\Users\up636306\Desktop\PythonSoftUni\LAST\Containers and Cloud\Exercise Cloud Computing\TaskBoardAzure\TaskBoard.Data\obj\Debug\net8.0\TaskBoard.Data.sourcelink.json
+C:\Users\up636306\Desktop\PythonSoftUni\LAST\Containers and Cloud\Exercise Cloud Computing\TaskBoardAzure\TaskBoard.Data\obj\Debug\net8.0\TaskBoard.Data.dll
+C:\Users\up636306\Desktop\PythonSoftUni\LAST\Containers and Cloud\Exercise Cloud Computing\TaskBoardAzure\TaskBoard.Data\obj\Debug\net8.0\refint\TaskBoard.Data.dll
+C:\Users\up636306\Desktop\PythonSoftUni\LAST\Containers and Cloud\Exercise Cloud Computing\TaskBoardAzure\TaskBoard.Data\obj\Debug\net8.0\TaskBoard.Data.pdb
+C:\Users\up636306\Desktop\PythonSoftUni\LAST\Containers and Cloud\Exercise Cloud Computing\TaskBoardAzure\TaskBoard.Data\obj\Debug\net8.0\ref\TaskBoard.Data.dll
